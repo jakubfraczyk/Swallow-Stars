@@ -2,7 +2,8 @@
 Event-driven text-mode action game in C/C++ (ncurses) - PG academic project.
 # ✨ Swallow Stars - Text-Mode Action Game
 
-![Gameplay Demo]()
+![Gameplay Demo](<img width="2528" height="1470" alt="image" src="https://github.com/user-attachments/assets/c6a617a8-3e4f-487e-af14-4719f677f4d9" />
+)
 
 ## 📌 About The Project
 "Swallow Stars" is a real-time, event-driven text-mode arcade game developed as an academic project during my 1st semester of Data Engineering at Gdańsk University of Technology. 
@@ -24,3 +25,5 @@ The player controls a swallow dodging hunters and collecting stars. The game enf
 1. Clone the repository.
 2. Compile using a standard C/C++ compiler with the ncurses library linked
    ```bash
+   gcc project1.c config.c hunter.c bird.c game_mechanics.c menu.c stars.c -lncurses -lm -o PROJECT1
+3. Run this project ./PROJECT1
