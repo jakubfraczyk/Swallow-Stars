@@ -2,7 +2,8 @@
 Event-driven text-mode action game in C/C++ (ncurses) - PG academic project.
 # ✨ Swallow Stars - Text-Mode Action Game
 
-![Gameplay Demo](https://github.com/user-attachments/assets/c6a617a8-3e4f-487e-af14-4719f677f4d9)
+![Gameplay Demo](![Uploading swallowstars.gif…]()
+)
 
 ## 📌 About The Project
 "Swallow Stars" is a real-time, event-driven text-mode arcade game developed as an academic project during my 1st semester of Data Engineering at Gdańsk University of Technology. 
